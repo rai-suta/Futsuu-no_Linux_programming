@@ -29,3 +29,11 @@ ISBN4-7973-2835-5
   |gdb_test.sh      |gdbを使ったデバッグ(p.154)|
   |exer7.4_1_cat4.c |7.4 練習問題1.(p.160): catコマンドに可視化オプションを追加|
   |exer7.4_2_tail.c |7.4 練習問題2.(p.160): tailコマンド|
+
+## ch.8
+  |File             |Description|
+  |---              |---|
+  |list8.3_grep.c   |grepコマンド(p.168)|
+  |exer8.3_1_grep2.c|8.3 練習問題1.(p.180): -i,-vオプションをgrepコマンドへ追加|
+  |exer8.3_2_grep3.c|8.3 練習問題1.(p.180): 行の長さ制限をなくしたgrepコマンド(TODO)|
+  
