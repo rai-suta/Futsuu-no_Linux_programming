@@ -36,4 +36,12 @@ ISBN4-7973-2835-5
   |list8.3_grep.c   |grepコマンド(p.168)|
   |exer8.3_1_grep2.c|8.3 練習問題1.(p.180): -i,-vオプションをgrepコマンドへ追加|
   |exer8.3_2_grep3.c|8.3 練習問題1.(p.180): 行の長さ制限をなくしたgrepコマンド(TODO)|
+
+## ch.10
+  |File             |Description|
+  |---              |---|
+  |list10.1_ls.c    |lsコマンド(p.198)|
+  |list10.2_mkdir.c |mkdirコマンド(p.204)|
+  |list10.3_rmdir.c |rmdirコマンド(p.206)|
+  |list10.4_ln.c    |lnコマンド(p.211)|
   
